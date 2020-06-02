@@ -1,0 +1,6 @@
+Things I need to implement Scheme at its most basic level:
+	- define
+	- lambda
+	- open (how will filenames/fds be communicated?)
+	- read a byte ( read(fd, void* return value, 1) )
+	- close fd
